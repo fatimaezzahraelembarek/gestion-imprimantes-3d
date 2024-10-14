@@ -1,0 +1,7 @@
+{
+  "name": "Gestion-d’imprimantes-3D",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
